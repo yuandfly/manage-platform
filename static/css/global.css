@@ -1,0 +1,39 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", 微软雅黑, Arial, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+/* 列表中状态列的颜色 */
+.table-state-success {
+  color: #67C23A
+}
+
+.table-state-warning {
+  color: #E6A23C
+}
+
+.table-state-error {
+  color: #F56C6C
+}
+
+.label-color {
+  color: #99a9bf;
+}
+
+.clearfix {
+  *zoom: 1
+    /*ie6清除浮动的方式 *号只有IE6-IE7执行，其他浏览器不执行*/
+}
+
+.clearfix::after {
+  display: block;
+  content: '';
+  height: 0;
+  visibility: hidden;
+  clear: both;
+}
+
+
+/* 灰色border样式 1px solid #ebeef5*/

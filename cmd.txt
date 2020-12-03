@@ -1,0 +1,20 @@
+安装 element
+npm i element-ui -S
+
+安装echarts
+npm install --save echarts
+
+安装axios
+npm install --save axios
+
+安装cos-js-sdk-v5
+npm install --save cos-js-sdk-v5
+
+安装element-china-area-data
+npm install element-china-area-data -S
+
+安装 sass
+npm install sass sass-loader --save-dev
+
+解决Uncaught (in promise) NavigationDuplicated 
+npm i vue-router@3.0 -S

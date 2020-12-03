@@ -1,0 +1,9 @@
+1.下载kindeditor资源包引入项目中 此项目引入在  static
+
+2.创建kindeditor.vue 页面中存放kindeditor富文本编辑器所需要的组件
+
+3.在src下创建plugin文件夹并在其下面创建kindeditor.js
+
+4.将需要的资源包引入在min.js中
+
+5.最后在组件里调用即可
